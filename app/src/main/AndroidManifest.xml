@@ -26,6 +26,8 @@
                 android:value="" />
         </activity>
 
+        <service android:name=".MyService" />
+
 <!--        <receiver-->
 <!--            android:name=".MyReceiver"-->
 <!--            android:exported="true">-->
